@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitHubRxJava</string>
+    <string name="msg_empty_list">Empty List</string>
+</resources>
